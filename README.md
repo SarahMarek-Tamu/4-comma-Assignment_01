@@ -26,7 +26,7 @@
     <a href="https://github.com/yujnkm/4-comma-Assignment_01/blob/main/pdf/Reality-Distortion-Room-ISMAR-23.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
-    <a href="https://website.com">Your Name</a>
+    <a href="https://website.com">Sarah Marek</a>
     &middot;
     <a href="https://sites.google.com/view/viza626/home">VIZA 626</a>
   </p>
@@ -38,17 +38,7 @@ Figure 1. This is my 4-comma, explain what this 4-comma is trying to encaptulate
 
 <!-- Abstract -->
 ## Abstract
-Your abstract here: 50 words here.
-
-Example of how to make a list:
-There are many great README templates available on GitHub.
-
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+This project explores creating a yonkoma by combining AI-generated scripts and images with hand-drawn art. It investigates blending AI tools and traditional methods to accelerate the creative process while maintaining a visual narrative. The goal is to highlight how AI can enhance human creativity in digital and traditional workflows.
 
 [![4-comma][images-fig2]](https://example.com)
 
