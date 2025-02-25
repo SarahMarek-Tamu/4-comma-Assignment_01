@@ -32,7 +32,7 @@
   </p>
 </div>
 
-[![4-comma][images-fig1]](https://example.com)
+[![4-comma][image-fig1]](https://example.com)
 
 Figure 1. This is my 4-comma, explain what this 4-comma is trying to encaptulate. *Ensure your image is high-definition, with a width greater than 3500 pixels. If your imafe is not wide enough, it will not fill the page!
 
@@ -40,7 +40,7 @@ Figure 1. This is my 4-comma, explain what this 4-comma is trying to encaptulate
 ## Abstract
 This project explores creating a yonkoma by combining AI-generated scripts and images with hand-drawn art. It investigates blending AI tools and traditional methods to accelerate the creative process while maintaining a visual narrative. The goal is to highlight how AI can enhance human creativity in digital and traditional workflows.
 
-[![4-comma][images-fig2]](https://example.com)
+[![4-comma][image-fig2]](https://example.com)
 
 Figure 2. Related works in this domain. 
 
