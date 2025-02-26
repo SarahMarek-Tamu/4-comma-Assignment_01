@@ -70,18 +70,13 @@ Figure 3. Methodology and Workflow: This figure should provide a comprehensive o
 Figure 4.  Methodology and Workflow: This figure should provide a comprehensive overview of the process used to create or generate your image.
 
 ## Result and Future Work
-Your Result and Future Work here: 100 words here.
+The manga successfully conveyed the emotional journey of struggling with motivation. The hybrid technique of using AI-generated images combined with hand-drawn art allowed for a fresh, modern take on the classic manga style, while preserving a deeply personal narrative. If revisiting the project, I would explore enhancing the interaction between characters and their environment by incorporating more dynamic AI tools for character animation. Future projects could expand on this hybrid approach, experimenting with interactive elements or incorporating deeper AI-driven storytelling to further enhance the visual and emotional experience.
 
-[![4-comma][images-fig5]](https://example.com)
 
-Figure 5. description for Figure 5
 
 ## Conclusion
-Your Conclusion here: 50 words here
+Creating this manga was a valuable experiment in blending AI tools with traditional art forms. The process highlighted the power of collaboration between human creativity and machine assistance, yielding a new approach to storytelling. The experience reinforced the importance of innovation while maintaining authenticity in creative endeavors.
 
-[![4-comma][images-fig6]](https://example.com)
-
-Figure 6. description for Figure 6
 
 <!-- Bibliography -->
 ## Bibliography 
