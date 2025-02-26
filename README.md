@@ -26,7 +26,7 @@
     <a href="https://github.com/yujnkm/4-comma-Assignment_01/blob/main/pdf/Reality-Distortion-Room-ISMAR-23.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
-    <a href="https://website.com">Sarah Marek</a>
+    <a >Sarah Marek</a>
     &middot;
     <a href="https://sites.google.com/view/viza626/home">VIZA 626</a>
   </p>
@@ -80,11 +80,11 @@ Creating this manga was a valuable experiment in blending AI tools with traditio
 
 <!-- Bibliography -->
 ## Bibliography 
-[1] Galanter, Philip. "Generative art theory." A companion to digital art (2016): 146-180. *Copy of MLA format
+[1] Yunqian, Zhang. "AI-driven background generation for manga illustrations: a deep generative model approach." Operational Research in Engineering Sciences: Theory and Applications 7.1 (2024).
 
-[2] Kim, You-Jin, Misha Sra, and Tobias Höllerer. "Audience Amplified: Virtual Audiences in Asynchronously Performed AR Theater." 2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE, 2024.
+[2] Chiou, Li-Yuan, et al. "Designing with AI: An exploration of co-ideation with image generators." Proceedings of the 2023 ACM designing interactive systems conference. 2023.
 
-[3] Kim, You-Jin, Misha Sra, and Tobias Höllerer. "Audience Amplified: Virtual Audiences in Asynchronously Performed AR Theater." 2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR). IEEE, 2024. 
+[3] Messer, Uwe. "Co-creating art with generative artificial intelligence: Implications for artworks and artists." Computers in human behavior: artificial humans 2.1 (2024): 100056.
 
 
 
