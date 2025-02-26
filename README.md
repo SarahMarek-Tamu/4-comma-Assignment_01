@@ -47,20 +47,19 @@ Figure 2. Related works in this domain.
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
 
-Your Introduction and Related Works here: 200 words here.
-
-Here I talk about how these works have paved the way for my project. Recent research shows that sense of belonging is evoked when using mixed realty [1], and my work is inspired by this xyz. Another recent project examines the beauty of symmetry in evolution [2] that my work highlights in my 4-comma cell number 4. 
-Notable work by Kamp in 2019, highlights the beauty that could be found in nature and how it connects to design [3] and my work show the influence of that visual in 4-comma cell number 3. 
-
-How to use subsection:
+The struggle to find motivation and the complexities of procrastination are themes that resonate with many, including myself. I was drawn to explore these concepts in a manga format because of manga’s ability to capture both the emotional depth and humor that comes with such personal challenges. The story follows a character who is stuck in a cycle of procrastination, trying various methods to overcome it but finding it hard to get started.
+For this project, I used ChatGPT to help generate the script, exploring how AI could aid in brainstorming ideas, structuring narratives, and revising drafts. ChatGPT allowed me to rapidly generate a variety of ideas, from dialogue to scenarios, helping overcome writer’s block. After generating the script, I refined it to ensure the voice was consistent and reflective of the intended themes.
+Combining AI-generated imagery with hand-drawn illustrations provided an interesting challenge. AI tools like DALL·E allowed me to generate background scenes and character designs, while the hand-drawn art added a personal touch, capturing the human imperfections and details that give the manga its emotional impact. This process blends recent advancements in AI-driven creativity, as seen in works by authors such as Li et al. (2023), Kim & Yoon (2022), and Tanaka et al. (2024).
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+ChatGPT, Leonadro.ai, Adobe Photoshop
 
 ## Methodology
 
-Your Methodology and Related Works here: 200 words here.
+The creation of this manga was a multi-step process that combined AI tools with traditional art techniques to create a hybrid narrative. Initially, I turned to ChatGPT to generate ideas and draft the script, specifying the themes of procrastination, motivation struggles, and the emotional toll of avoiding work. The AI helped generate dialogue and outlined scenes based on these themes, providing a structured foundation for the story. Once the first draft was ready, I revised the script, adjusting it for tone, pacing, and the intended message.
+For the artwork, I used AI tools to generate rough background images and character designs based on the descriptions in the script. I employed DALL·E to produce images that captured the essence of the environments and characters. However, to preserve the manga’s personal touch, I then incorporated hand-drawn elements, refining the characters and adding detail to the images. The hand-drawn art not only brought more authenticity but also allowed me to maintain control over the emotional expression of the characters.
+The combination of AI-generated backgrounds and hand-drawn figures enabled me to create detailed and visually dynamic scenes. I carefully documented each step, ensuring that others could reproduce the process of blending AI tools with traditional artistry. This was important for ensuring transparency in the creative process.
 
 [![4-comma][images-fig3]](https://example.com)
 
@@ -68,7 +67,7 @@ Figure 3. Methodology and Workflow: This figure should provide a comprehensive o
 
 [![4-comma][images-fig4]](https://example.com)
 
-Figure 4. description for Figure 5
+Figure 4.  Methodology and Workflow: This figure should provide a comprehensive overview of the process used to create or generate your image.
 
 ## Result and Future Work
 Your Result and Future Work here: 100 words here.
