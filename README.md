@@ -97,9 +97,7 @@ Figure 6. description for Figure 6
 <!-- CONTACT -->
 ## Contact
 
-Your Name - email@tamu.edu
-
-Personal Website: [https://website.com](https://website.com)
+Sarah Marek - mareksam@tamu.edu
 
 
 
