@@ -53,7 +53,7 @@ Combining AI-generated imagery with hand-drawn illustrations provided an interes
 
 ### Built With
 
-ChatGPT, Leonadro.ai, Adobe Photoshop
+ChatGPT, Leonadro.ai, perchance.org/ai-anime-generator, and Adobe Photoshop
 
 ## Methodology
 
