@@ -62,25 +62,25 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 Your Methodology and Related Works here: 200 words here.
 
-[![4-comma][images-fig3]](https://example.com)
+[![4-comma][image-fig3]](https://example.com)
 
 Figure 3. Methodology and Workflow: This figure should provide a comprehensive overview of the process used to create or generate your image.
 
-[![4-comma][images-fig4]](https://example.com)
+[![4-comma][image-fig4]](https://example.com)
 
 Figure 4. description for Figure 5
 
 ## Result and Future Work
 Your Result and Future Work here: 100 words here.
 
-[![4-comma][images-fig5]](https://example.com)
+[![4-comma][image-fig5]](https://example.com)
 
 Figure 5. description for Figure 5
 
 ## Conclusion
 Your Conclusion here: 50 words here
 
-[![4-comma][images-fig6]](https://example.com)
+[![4-comma][image-fig6]](https://example.com)
 
 Figure 6. description for Figure 6
 
