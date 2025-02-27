@@ -23,7 +23,7 @@
   <p align="center">
     Short two sentence project desctiption here!
     <br />
-    <a href="[https://github.com/SarahMarek-Tamu/4-comma-Assignment_01/blob/main/pdf/4_Koma%20PDF.pdf) »</strong></a>
+    <a href="https://github.com/SarahMarek-Tamu/4-comma-Assignment_01/blob/main/pdf/4_Koma%20PDF.pdf"><strong>Link to PDF Report »</strong></a>
     <br />
     <br />
     <a >Sarah Marek</a>
