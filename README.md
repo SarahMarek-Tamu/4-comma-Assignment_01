@@ -18,7 +18,7 @@
 <div align="center">
   </a>
 
-  <h3 align="center">4-Comma: </h3>
+  <h3 align="center">4-Koma: Get Back to It </h3>
 
   <p align="center">
     Combining and comparing Ai image generation and hand-drawn processes to create a Yonkoma. 
