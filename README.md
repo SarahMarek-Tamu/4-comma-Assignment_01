@@ -34,49 +34,53 @@
 
 [![4-comma][images-fig1]](https://example.com)
 
-Figure 1. This is my 4-comma, explain what this 4-comma is trying to encaptulate. *Ensure your image is high-definition, with a width greater than 3500 pixels. If your imafe is not wide enough, it will not fill the page!
+Figure 1. This is my 4-comma, here I combine Ai generated images and my own hand-drawn panels to better understand the effciencies of each production process. 
 
 <!-- Abstract -->
 ## Abstract
-This project explores creating a yonkoma by combining AI-generated scripts and images with hand-drawn art. It investigates blending AI tools and traditional methods to accelerate the creative process while maintaining a visual narrative. The goal is to highlight how AI can enhance human creativity in digital and traditional workflows.
+For this project, I decided to run a loose experiment to better understand how AI might fit into my personal workflow. By dividing the work of creating a yonkoma between AI image generation tools and hand-drawn artwork, I was able to compare the efficiencies of each production process. 
 
-[![4-comma][images-fig2]](https://example.com)
-
-Figure 2. Related works in this domain. 
 
 <!-- Introduction and Related Works -->
 ## Introduction and Related Works
 
-The struggle to find motivation and the complexities of procrastination are themes that resonate with many, including myself. I was drawn to explore these concepts in a manga format because of manga’s ability to capture both the emotional depth and humor that comes with such personal challenges. The story follows a character who is stuck in a cycle of procrastination, trying various methods to overcome it but finding it hard to get started.
-For this project, I used ChatGPT to help generate the script, exploring how AI could aid in brainstorming ideas, structuring narratives, and revising drafts. ChatGPT allowed me to rapidly generate a variety of ideas, from dialogue to scenarios, helping overcome writer’s block. After generating the script, I refined it to ensure the voice was consistent and reflective of the intended themes.
-Combining AI-generated imagery with hand-drawn illustrations provided an interesting challenge. AI tools like DALL·E allowed me to generate background scenes and character designs, while the hand-drawn art added a personal touch, capturing the human imperfections and details that give the manga its emotional impact. This process blends recent advancements in AI-driven creativity, as seen in works by authors such as Li et al. (2023), Kim & Yoon (2022), and Tanaka et al. (2024).
+The marketing of AI towards creative fields has grown significantly in the past several years, with manga creation being one of the potential use-cases advertised. In particular, AI has been targeted at script writing, background automation, and polishing sketches.
+Manga is a highly visual and narrative-driven medium, making it an ideal target for AI-assisted creation. By leveraging AI-generated scripts and images, this project aims to explore AI’s role in supplementing traditional artistic efforts. 
+A traditional panel workflow would follow several steps: thumbnailing, sketching, linework/inking, coloring, and rendering. AI has been marketed primarily towards the thumbnailing and rendering stages, and that’s how it’s been approached in this project: using a prompt to generate a scene, then adding further rendering on top.
+This study builds on existing research on AI-driven content creation. Zhang Yunqian’s paper [1] on AI-driven background generation explores deep generative models to automate scene construction. Chiou et al. [2] investigate how AI facilitates co-ideation in design workflows. Messer [3] examines AI’s impact on art perception, noting that while AI-assisted art is seen as innovative, it is often perceived as less authentic. These studies provide context for assessing AI’s role in manga production, particularly regarding efficiency, creative control, and audience reception.
 
 ### Built With
 
-ChatGPT, Leonadro.ai, perchance.org/ai-anime-generator, and Adobe Photoshop
+ChatGPT, Leonadro.ai, and Adobe Photoshop
 
 ## Methodology
 
-The creation of this manga was a multi-step process that combined AI tools with traditional art techniques to create a hybrid narrative. Initially, I turned to ChatGPT to generate ideas and draft the script, specifying the themes of procrastination, motivation struggles, and the emotional toll of avoiding work. The AI helped generate dialogue and outlined scenes based on these themes, providing a structured foundation for the story. Once the first draft was ready, I revised the script, adjusting it for tone, pacing, and the intended message.
-For the artwork, I used AI tools to generate rough background images and character designs based on the descriptions in the script. I employed DALL·E to produce images that captured the essence of the environments and characters. However, to preserve the manga’s personal touch, I then incorporated hand-drawn elements, refining the characters and adding detail to the images. The hand-drawn art not only brought more authenticity but also allowed me to maintain control over the emotional expression of the characters.
-The combination of AI-generated backgrounds and hand-drawn figures enabled me to create detailed and visually dynamic scenes. I carefully documented each step, ensuring that others could reproduce the process of blending AI tools with traditional artistry. This was important for ensuring transparency in the creative process.
+The project followed a structured process to integrate AI tools with traditional manga creation techniques. Initially, multiple script variations were generated using ChatGPT. These AI-generated drafts provided a starting point, but significant manual refinement was necessary in order to bring the script up to something at my standard. 
+For visual elements, I employed ChatGPT’s image generator and Leonardo.ai to generate panels. First with Leonardo, but moved over to ChatGPT struggling with getting panels that matched my script. The AI outputs were often inconsistent between generations and never fully followed the script, requiring extensive editing and digital painting to achieve the desired aesthetic. To correct for this I edited the results in photoshop and created and composited draw-overs to mask and enhance different parts of the AI results. Overall, this whole approach was about three hours.
+For the other half, I used my usual drawing process in Adobe Photoshop following the style from the AI: sketching, line art, color and render passes, then color filter layers for final touches. This more familiar approach took about two hours in total.
+The final step involved assembling and refining the manga panels in Photoshop. The assembled comic was uploaded to Github for hosting.
+
+[![4-comma][images-fig2]](https://example.com)
+
+Figure 2. Selection of images generated in first step. 
 
 [![4-comma][images-fig3]](https://example.com)
 
-Figure 3. Methodology and Workflow: This figure should provide a comprehensive overview of the process used to create or generate your image.
+Figure 3. A comparison between the original generated images and the edits gone to them.
 
 [![4-comma][images-fig4]](https://example.com)
 
-Figure 4.  Methodology and Workflow: This figure should provide a comprehensive overview of the process used to create or generate your image.
+Figure 4.  Each step of the process done for the hand-drawn panels.
 
 ## Result and Future Work
-The manga successfully conveyed the emotional journey of struggling with motivation. The hybrid technique of using AI-generated images combined with hand-drawn art allowed for a fresh, modern take on the classic manga style, while preserving a deeply personal narrative. If revisiting the project, I would explore enhancing the interaction between characters and their environment by incorporating more dynamic AI tools for character animation. Future projects could expand on this hybrid approach, experimenting with interactive elements or incorporating deeper AI-driven storytelling to further enhance the visual and emotional experience.
+The final comic was able to blend AI-generated and hand-drawn elements successfully, but comparing the time and effort spent on each workflow revealed that working with the AI was less efficient and enjoyable compared to free-hand artwork. While AI tools accelerated the earliest stages, their output was often messy, requiring substantial human intervention. The lack of specificity in AI content generation also made it nearly impossible to iterate on one result, instead necessitating hand edits to polish ideas that held promise.
+Future work will likely require further experimentation with AI tools to more efficiently integrate with my workflow.
+
 
 
 
 ## Conclusion
-Creating this manga was a valuable experiment in blending AI tools with traditional art forms. The process highlighted the power of collaboration between human creativity and machine assistance, yielding a new approach to storytelling. The experience reinforced the importance of innovation while maintaining authenticity in creative endeavors.
-
+This experiment demonstrated AI’s potential and limitations in manga creation. While AI can accelerate ideation, human refinement is crucial for creating a polished and cohesive final product. In my specific case, so much human intervention was required that it weighed down any gains made in that earlier acceleration.
 
 <!-- Bibliography -->
 ## Bibliography 
