@@ -34,7 +34,7 @@
 
 [![4-comma][images-fig1]](https://example.com)
 
-Figure 1. This is my 4-comma, here I combine Ai generated images and my own hand-drawn panels to better understand the effciencies of each production process. 
+Figure 1. This is my 4-comma, here I combine Ai generated images and my own hand-drawn panels to better understand the effciencies of each production process. Panels 1 and 3 are Ai generated then 2 and 4 were drawn after to match the style.
 
 <!-- Abstract -->
 ## Abstract
